@@ -1,13 +1,15 @@
-# Sticker Time Bot
-Telegram Link: [http://t.me/sticker_time_bot](http://t.me/sticker_time_bot)
+# Fujao Bot for Telegram
+Under development......
 
 ## Introduction
-This is a [Telegram](https://telegram.org/) bot sending a sticker telling time every hour. You can start or stop any time using commands.
+This is a [Telegram](https://telegram.org/) bot sending fujao-time sentences telling time every hour. You can start or stop any time using commands.
+
+Modified from [imxieyi/sticker_time_bot](https://github.com/imxieyi/sticker_time_bot)
 
 ## Commands
-**Start sending stickers:** `/start`
+**Start sending sentences:** `/start`
 
-**Stop sending stickers:** `/stop`
+**Stop sending sentences:** `/stop`
 
 **Set timezone:** `/timezone Asia/Shanghai`
 
@@ -40,3 +42,8 @@ Create a file config.json:
 ```sh
 npm start
 ```
+
+## License
+[SATA / based on MIT](COPYING.md)
+
+Also, thanks to the original developers!
